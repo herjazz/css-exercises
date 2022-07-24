@@ -4,6 +4,10 @@
     background-color: hsl(0, 79%, 72%); /* a light pink */
 }
 
+.larger {
+    font-size: 24px;
+}
+
 #two {
     color: blue;
     font-size: 36px;
