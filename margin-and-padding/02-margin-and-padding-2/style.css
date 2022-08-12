@@ -31,6 +31,8 @@ body {
 }
 
 button {
+  display: block;
   background: white;
+  margin: 0 auto;
   border: 1px solid #eee;
 }
