@@ -34,5 +34,6 @@ button {
   display: block;
   background: white;
   margin: 0 auto;
+  padding: 24px 8px;
   border: 1px solid #eee;
 }
