@@ -16,6 +16,9 @@ a {
 header {
   height: 72px;
   background: darkmagenta;
+  display: flex;
+  align-items: center;
+  padding-left: 16px; /* padding-inline-start: */
 }
 
 h1 {
