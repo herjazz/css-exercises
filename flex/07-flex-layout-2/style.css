@@ -18,7 +18,7 @@ header {
   background: darkmagenta;
   display: flex;
   align-items: center;
-  padding-left: 16px; /* padding-inline-start: */
+  padding-left: 16px;
 }
 
 h1 {
@@ -58,10 +58,13 @@ main {
   padding: 32px;
   display: flex;
   flex-wrap: wrap;
+  gap: 16px;
 }
 
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  padding: 10px;
+  flex-basis: 200px;
 }
