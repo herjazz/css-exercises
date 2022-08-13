@@ -16,9 +16,12 @@ a {
 header {
   height: 72px;
   background: darkmagenta;
+}
+
+h1 {
   color: white;
   font-size: 32px;
-  font-weight: 900px;
+  font-weight: 900;
 }
 
 footer {
