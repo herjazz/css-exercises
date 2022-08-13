@@ -10,6 +10,7 @@ body {
 a {
   text-decoration: none;
   color: white;
+  font-size: 24px;
 }
 
 header {
@@ -32,8 +33,9 @@ footer {
 }
 
 .sidebar {
-  width: 300px;
+  min-width: 300px;
   background: royalblue;
+  padding: 16px;
 }
 
 .sidebar ul {
@@ -44,6 +46,12 @@ footer {
 
 .sidebar ul li {
   padding: 5px;
+}
+
+main {
+  padding: 32px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .card {
